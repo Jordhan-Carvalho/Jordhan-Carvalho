@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi there 👋! I'm Jordhan !</h1>
 
 Passionate developer with an interest in entrepreneurship who loves to architect and build new things from simple ideas to meaningful products.
@@ -9,20 +8,20 @@ Despite having most of my expertise in javascript, I'm not attached to languages
 
 #### A little more about me:
 
-- :woman_mechanic: I have bachaelors degree in geological engineering and post-graduation in software engineering
-- I have built dozens of side projects, including MMORPG bots, automation tools, web scrapers, discords bots, mobile apps, web apps.
-- Vim user (actually neovim)
-- Father of a beautiful boy 
+- 🔭 I have bachaelors degree in geological engineering and post-graduation in software engineering
+- 🌱 I have built dozens of side projects, including MMORPG bots, automation tools, web scrapers, discords bots, mobile apps, web apps.
+- 😄 Vim enthusiast (Neovim actually)
+- 👶🏼 Father of a beautiful boy 
 - 💬 Ask me and teach me about anything! I love to learn new things
 
 <h2 align="center">My stats</h2>
 <div align="center">
-  <img height="160em;" alt="Jordhan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jordhan-carvalho&theme=gruvbox&show_icons=true&hide_border=true" />
+  <img height="160em;" alt="Jordhan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jordhan-carvalho&theme=gruvbox&count_private=true&show_icons=true&hide_border=true" />
    &nbsp  
    &nbsp
    &nbsp
    &nbsp
-  <img height="160em;" alt="Jordhan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordhan-carvalho&theme=gruvbox&layout=compact" />
+  <img height="160em;" alt="Jordhan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordhan-carvalho&theme=gruvbox&hide=html&langs_count=8&layout=compact" />
 </div>
 
 <h3 align="left">Contact me</h2>
