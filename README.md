@@ -11,7 +11,8 @@ Despite having most of my expertise in javascript, I'm not attached to languages
 
 - :woman_mechanic: I have bachaelors degree in geological engineering and post-graduation in software engineering
 - I have built dozens of side projects, including MMORPG bots, automation tools, web scrapers, discords bots, mobile apps, web apps.
-- Father of one beautiful boy 
+- Vim user (actually neovim)
+- Father of a beautiful boy 
 - 💬 Ask me and teach me about anything! I love to learn new things
 
 <h2 align="center">My stats</h2>
