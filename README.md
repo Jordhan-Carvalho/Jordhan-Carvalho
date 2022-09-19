@@ -12,7 +12,7 @@ Despite having most of my expertise in javascript, I'm not attached to languages
 - 🌱 I have built dozens of side projects, including MMORPG bots, automation tools, web scrapers, discords bots, mobile apps, web apps.
 - 😄 Vim enthusiast (Neovim actually)
 - 👶🏼 Father of a beautiful boy 
-- 💬 Ask me and teach me about anything! I love to learn new things
+- 💬 Feel free to ask me anything, or teach me something new.
 
 <h2 align="center">My stats</h2>
 <div align="center">
