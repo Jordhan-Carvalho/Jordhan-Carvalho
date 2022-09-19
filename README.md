@@ -8,7 +8,7 @@ Despite having most of my expertise in javascript, I'm not attached to languages
 
 #### A little more about me:
 
-- 🔭 I have bachaelors degree in geological engineering and post-graduation in software engineering
+- 🔭 I have a bachaelors degree in geological engineering and postgraduate degree in software engineering
 - 🌱 I have built dozens of side projects, including MMORPG bots, automation tools, web scrapers, discords bots, mobile apps, web apps.
 - 😄 Vim enthusiast (Neovim actually)
 - 👶🏼 Father of a beautiful boy 
