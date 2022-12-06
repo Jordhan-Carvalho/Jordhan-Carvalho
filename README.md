@@ -21,7 +21,7 @@ Despite having most of my expertise in javascript, I'm not attached to languages
    &nbsp
    &nbsp
    &nbsp
-  <img height="160em;" alt="Jordhan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordhan-carvalho&theme=gruvbox&hide=html&langs_count=8&layout=compact" />
+  <img height="160em;" alt="Jordhan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordhan-carvalho&theme=gruvbox&hide=html,css&langs_count=8&layout=compact" />
 </div>
 
 <h3 align="left">Contact me</h2>
