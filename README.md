@@ -2,14 +2,14 @@
 
 Passionate developer with an interest in entrepreneurship who loves to architect and build new things from simple ideas to meaningful products.
  
-I began my studies on my own through free materials available on the internet such as MIT OpenCourseWare, Coursera, FreeCodeCamp among others, since then I have developed dozens of personal projects, worked as a freelancer, completed a web development bootcamp and finished a postgraduate degree in software engineering.
+I began my studies independently, using free online resources such as MIT OpenCourseWare and Coursera. Since then I have developed numerous personal projects, worked as a freelancer, completed a web development bootcamp, and earned a postgraduate degree in software engineering.
 
-Despite having most of my expertise in javascript, I'm not attached to languages: I believe that for each problem we have to use the most appropriate tool, I'm open and interested in learning new languages ​​and tools. I try to evolve in collaborative environments that provide intellectual and professional growth and encourage my learning.
+Despite having most of my expertise in javascript, I'm not attached to languages: I believe that for each problem we have to use the most appropriate tool, I'm open and interested in learning new languages ​​and tools. I thrive in collaborative environments that foster both intellectual and professional growth and support my continued learning.
 
 #### A little more about me:
 
 - 🔭 I have a bachaelors degree in geological engineering and postgraduate degree in software engineering
-- 🌱 I have built dozens of side projects, including MMORPG bots, automation tools, web scrapers, desktop apps, discords bots, mobile apps, web apps.
+- 🌱 I have built dozens of projects, including MMORPG bots, automation tools, web scrapers, desktop apps, discords bots, mobile apps, web apps.
 - 😄 Vim enthusiast (Neovim actually)
 - 👶🏼 Father of a beautiful boy 
 - 💬 Feel free to ask me anything, or teach me something new.
