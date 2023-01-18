@@ -16,12 +16,13 @@ Despite having most of my expertise in javascript, I'm not attached to languages
 
 <h2 align="center">My stats</h2>
 <div align="center">
-  <img height="160em;" alt="Jordhan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jordhan-carvalho&theme=gruvbox&count_private=true&show_icons=true&hide_border=true" />
+  <img height="160em;" alt="Jordhan's GitHub Stats" src="https://github-readme-stats-gray-tau-61.vercel.app/api?username=jordhan-carvalho&theme=gruvbox&count_private=true&show_icons=true&hide_border=true" />
    &nbsp  
    &nbsp
    &nbsp
    &nbsp
-  <img height="160em;" alt="Jordhan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordhan-carvalho&theme=gruvbox&hide=html,css&langs_count=8&layout=compact" />
+  <img height="160em;" alt="Jordhan's GitHub Top Languages" src="https://github-readme-stats-gray-tau-61.vercel.app/api/top-langs/?username=jordhan-carvalho&theme=gruvbox&hide=html,css,vue,scss,PLpgSQL,hcl,mustache&langs_count=8&layout=compact" />
+    <img height="160em;" alt="Jordhan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordhan-carvalho&theme=gruvbox&hide=html,css,vue,scss,PLpgSQL,hcl,mustache&langs_count=8&layout=compact" />
 </div>
 
 <h3 align="left">Contact me</h2>
