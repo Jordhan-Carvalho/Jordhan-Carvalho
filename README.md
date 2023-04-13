@@ -21,7 +21,6 @@ Despite having most of my expertise in javascript, I'm not attached to languages
    &nbsp
    &nbsp
    &nbsp
-  <img height="160em;" alt="Jordhan's GitHub Top Languages" src="https://github-readme-stats-gray-tau-61.vercel.app/api/top-langs/?username=jordhan-carvalho&theme=gruvbox&hide=html,css,vue,scss,PLpgSQL,hcl,mustache&langs_count=8&layout=compact" />
     <img height="160em;" alt="Jordhan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordhan-carvalho&theme=gruvbox&hide=html,css,vue,scss,PLpgSQL,hcl,mustache&langs_count=8&layout=compact" />
 </div>
 
