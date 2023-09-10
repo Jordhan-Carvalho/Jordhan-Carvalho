@@ -1,28 +1,15 @@
-<h1 align="center">Hi there 👋! I'm Jordhan !</h1>
+<h1 align="center">Hi there!</h1>
 
-Passionate developer with an interest in entrepreneurship who loves to architect and build new things from simple ideas to meaningful products.
- 
-I began my studies independently, using free online resources such as MIT OpenCourseWare and Coursera. Since then I have developed numerous personal projects, worked as a freelancer, completed a web development bootcamp, and earned a postgraduate degree in software engineering.
+I began my studies using freely available resources such as MIT OpenCourseWare, Coursera, FreeCodeCamp, among others. Since then, I have developed hundreds of personal and professional projects, including web applications, automation tools, bots, scrapers, desktop applications, mobile apps, and open-source projects. I have been specializing in cloud architecture and cybersecurity.
 
-Despite having most of my expertise in javascript, I'm not attached to languages: I believe that for each problem we have to use the most appropriate tool, I'm open and interested in learning new languages ​​and tools. I thrive in collaborative environments that foster both intellectual and professional growth and support my continued learning.
+I don't have a preference for programming languages: I believe that for each problem, we should use the most appropriate tool. I strive to grow in collaborative environments that challenge my logical thinking and foster my learning.
 
 #### A little more about me:
 
-- 🔭 I have a bachaelors degree in geological engineering and postgraduate degree in software engineering
-- 🌱 I have built dozens of projects, including MMORPG bots, automation tools, web scrapers, desktop apps, discords bots, mobile apps, web apps.
+- 🔭 I have a bachelor's degree in geological engineering, a postgraduate degree in software engineering, and I am currently pursuing a postgraduate program in cyber security
 - 😄 Vim enthusiast (Neovim actually)
 - 👶🏼 Father of a beautiful boy 
 - 💬 Feel free to ask me anything, or teach me something new.
-
-<h2 align="center">My stats</h2>
-<div align="center">
-  <img height="160em;" alt="Jordhan's GitHub Stats" src="https://github-readme-stats-gray-tau-61.vercel.app/api?username=jordhan-carvalho&theme=gruvbox&count_private=true&show_icons=true&hide_border=true" />
-   &nbsp  
-   &nbsp
-   &nbsp
-   &nbsp
-    <img height="160em;" alt="Jordhan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordhan-carvalho&theme=gruvbox&hide=html,css,vue,scss,PLpgSQL,hcl,mustache&langs_count=8&layout=compact" />
-</div>
 
 <h3 align="left">Contact me</h2>
 
