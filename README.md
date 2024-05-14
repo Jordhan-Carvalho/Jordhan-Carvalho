@@ -9,7 +9,6 @@ I don't have a preference for programming languages: I believe that for each pro
 - 🔭 I have a bachelor's degree in geological engineering, a postgraduate degree in software engineering, and I am currently pursuing a postgraduate program in cyber security
 - 😄 Vim enthusiast (Neovim actually)
 - 👶🏼 Father of a beautiful boy 
-- 💬 Feel free to ask me anything, or teach me something new.
 
 <h3 align="left">Contact me</h2>
 
