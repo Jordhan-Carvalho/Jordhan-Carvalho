@@ -1,14 +1,14 @@
-<h1 align="center">Hi there!</h1>
+<h1 align="center">Hey!</h1>
 
-I began my studies using freely available resources such as MIT OpenCourseWare, Coursera, FreeCodeCamp, among others. Since then, I have developed hundreds of personal and professional projects, including web applications, automation tools, bots, scrapers, desktop applications, mobile apps, and open-source projects. I have been specializing in cloud architecture and cybersecurity.
+I am a software engineer with a postgraduate degree in Software Engineering and extensive experience developing a wide range of personal and professional projects. My portfolio includes web applications, automation tools, CLI utilities, bots, game cheat engines, scrapers, desktop and mobile applications, AI agents, and retrieval-augmented generation (RAG) systems. I have also actively contributed to several open-source projects.
 
-I don't have a preference for programming languages: I believe that for each problem, we should use the most appropriate tool. I strive to grow in collaborative environments that challenge my logical thinking and foster my learning.
+I have worked with multiple programming languages, including Go, Dart, JavaScript, TypeScript, Python, Lua, C++, and shell scripting, and have experience using numerous frameworks across various technology stacks.
 
-#### A little more about me:
+My experience spans full-stack and backend development, as well as cybersecurity and DevSecOps. Currently, I work on the AI Platform team.
 
-- 🔭 I have a bachelor's degree in geological engineering, a postgraduate degree in software engineering, and I am currently pursuing a postgraduate program in cyber security
-- 😄 Vim enthusiast (Neovim actually)
-- 👶🏼 Father of a beautiful boy 
+I have solid experience with cloud infrastructure, particularly AWS, and am proficient with Infrastructure as Code (IaC) tools such as CloudFormation, the Serverless Framework, and Terraform.
+
+I love what I do and the endless possibilities it gives me.
 
 <h3 align="left">Contact me</h2>
 
